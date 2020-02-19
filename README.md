@@ -10,3 +10,6 @@ StarrensMatrix = its the implementation of starrents matrix multiplication algor
 SubSequenceOfArray = gives all sub sequence of input array.
 additionchain = implementation of addition chain algorithm.
 huffman = implementation of huffman coding.
+queens = * queen problem
+lps = longest palindromic substring(Manacher's algo)
+piglatin
